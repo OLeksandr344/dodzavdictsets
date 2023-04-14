@@ -1,0 +1,6 @@
+Ivanenko paper 10
+Petrenko pen 5
+Ivanenko marker 3
+Ivanenko paper 7
+Petrenko envelope 20
+Ivanenko envelope 5

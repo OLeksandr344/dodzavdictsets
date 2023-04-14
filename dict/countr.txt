@@ -1,0 +1,7 @@
+2
+Germany Berlin Hamburg Munich Dortmund
+Ukraine Kyiv Lviv Odessa
+3
+Odessa
+Dortmund
+Berlin

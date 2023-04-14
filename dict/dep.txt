@@ -1,0 +1,7 @@
+DEPOSIT Ivanenko 100
+INCOME 5
+BALANCE Ivanenko
+TRANSFER Ivanenko Petrenko 50
+WITHDRAW Petrenko 100
+BALANCE Petrenko
+BALANCE Sydorenko
